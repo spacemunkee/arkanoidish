@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovePaddle : MonoBehaviour {
+public class PaddleController : MonoBehaviour {
 
 	public float speed = 6f;
-	float paddleAdjustment = 0.35f;
+	public float paddleAdjustment = 0.35f;
 	
 	// Update is called once per frame
 	void Update () {
