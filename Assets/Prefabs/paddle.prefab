@@ -89,7 +89,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  paddleAdjustment: 0.93
+  paddleAdjustment: 0.35
 --- !u!212 &212621864719775638
 SpriteRenderer:
   m_ObjectHideFlags: 1
