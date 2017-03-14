@@ -335,6 +335,11 @@ Prefab:
       propertyPath: m_TagString
       value: Paddle
       objectReference: {fileID: 0}
+    - target: {fileID: 114652906789683800, guid: b1db6c0516eab4fd0a6387ed044d27ad,
+        type: 2}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b1db6c0516eab4fd0a6387ed044d27ad, type: 2}
   m_IsPrefabParent: 0
